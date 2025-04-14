@@ -1,6 +1,8 @@
 # -Generating-Realistic-Images-with-GANs-
 Overview: Implemented a Generative Adversarial Network using TensorFlow, creating a model capable of generating realistic images. The project involved designing a GAN architecture, training it on a curated dataset, and evaluating its performance.
 
+## demo
+
 
 ![image](https://github.com/Dubeyrock/-Generating-Realistic-Images-with-GANs-/assets/96882359/c9e81bbf-b0ad-4c97-b445-592bc2cdacb5)
 
